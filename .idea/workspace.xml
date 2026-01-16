@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d474d900-cdba-4a0a-ae5f-956834659ea5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Faculty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/DesignPrinciples/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/BankingSystemDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/EcommerceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/EmployeeManagementDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/FoodDeliveryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/HospitalManagementDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/LibraryManagementDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/RideHailingDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Encapsulation_Polymorphism_Interface_AbstractClass/VehicleRentalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/AnimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/BankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/CourseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/HybridVehicleDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/LibraryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/OrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/RestaurantTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/SchoolTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/SmartHomeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Inheritance/VehicleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level1/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level1/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level1/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level1/MobilePhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level2/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level2/CartItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level2/MovieTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level2/PalindromeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Class_And_Object/Level2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/CarRental.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/HotelBooking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/LibraryBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Java_Constructors_Instance_ClassVariables_AccessModifiers/Level1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Keywords/Level1/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Keywords/Level1/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Keywords/Level1/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Keywords/Level1/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Keywords/Level1/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Keywords/Level1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Object_Oriented_Programming/Keywords/Level1/Vehicle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38LLMbNTMUWfUsl0oNK1Imr3UAE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/Object__Oriented__Programming",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SUDECHHA/IdeaProjects/Bridgelabz_Java_CG"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d474d900-cdba-4a0a-ae5f-956834659ea5" name="Changes" comment="" />
+      <created>1768573860307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768573860307</updated>
+    </task>
+    <servers />
+  </component>
+</project>
